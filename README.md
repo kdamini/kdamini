@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kdamini
 - 👀 I’m interested in Mathematical Logic, Epistemology, and Philosopy of Language 
-- 🌱 I’m currently learning about applications of formal semantics
 - 📫 You can reach me at damini.kusum@gmail.com
 
 <!---
