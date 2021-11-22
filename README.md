@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kdamini
-- 👀 I’m interested in Mathematical Logic, Epistemology, and Philosopy of Language 
 - 📫 You can reach me at damini.kusum@gmail.com
 
 <!---
